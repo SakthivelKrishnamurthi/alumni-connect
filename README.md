@@ -1,2 +1,2 @@
 # alumni-connect
-an application for alumni mentorship programme for students
+an application for alumni mentorship programme of students
